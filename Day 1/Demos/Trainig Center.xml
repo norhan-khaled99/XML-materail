@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE trainlog SYSTEM "D:\Courses\ITI Courses\XML\Day 1\Demos\Training Center.dtd">
+<trainlog>
+	<session date="11/19/05" type="running" heartrate="158">
+		<duration units="minutes">50</duration>
+		<distance units="miles">5.5</distance>
+		<location>Warner Park</location>
+		<comments>Mid-morning run, a little winded throughout.</comments>
+	</session>
+	<session date="11/21/05" type="cycling" heartrate="153">
+		<duration units="hours">1.5</duration>
+		<distance units="miles">26.4</distance>
+		<location>Natchez Trace Parkway</location>
+		<comments>Hilly ride, felt strong as an ox.</comments>
+	</session>
+	<session date="11/24/05" type="running" heartrate="156">
+		<duration units="hours">2.5</duration>
+		<distance units="miles">16.8</distance>
+		<location>Warner Park</location>
+		<comments>Afternoon run, felt reasonably strong.</comments>
+	</session>
+</trainlog>

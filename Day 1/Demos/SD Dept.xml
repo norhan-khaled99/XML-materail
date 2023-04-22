@@ -1,0 +1,42 @@
+<Dept name="SD">
+	<Categories>
+		<Category Name="Programming Languages">
+			<Courses>
+				<Course>
+					<Name>JAVA</Name>
+					<Hours>30</Hours>
+				</Course>
+				<Course>
+					<Name>C Sharp</Name>
+					<Hours>80</Hours>
+				</Course>
+			</Courses>
+		</Category>
+		
+		<Category Name="Web Development">
+			<Courses>
+				<Course>
+					<Name>JavaScript</Name>
+					<Hours>20</Hours>
+				</Course>
+				<Course>
+					<Name>ASP.Net</Name>
+					<Hours>60</Hours>
+				</Course>
+			</Courses>
+		</Category>
+		
+		<Category Name="Database Development">
+			<Courses>
+				<Course>
+					<Name>Oracle</Name>
+					<Hours>50</Hours>
+				</Course>
+				<Course>
+					<Name>MS SQL Server 2005</Name>
+					<Hours>70</Hours>
+				</Course>
+			</Courses>
+		</Category>
+	</Categories>
+</Dept>
